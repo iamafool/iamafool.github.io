@@ -11,9 +11,13 @@ categories: 中医
 # 卷一
 
 ## 仰人周身總穴圖
-![](../images/zhen_jiu_da_cheng_01/zhen_jiu_da_cheng_01_Page_024.png)
+![](http://iamafool.net/images/zhen_jiu_da_cheng_01/zhen_jiu_da_cheng_01_Page_024.png)
+
+
 ## 伏人周身總穴圖
-![](../images/zhen_jiu_da_cheng_01/zhen_jiu_da_cheng_01_Page_025.png)
+![](http://iamafool.net/images/zhen_jiu_da_cheng_01/zhen_jiu_da_cheng_01_Page_025.png)
+
+
 
 ## 針道源流
 
