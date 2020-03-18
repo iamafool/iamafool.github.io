@@ -18,7 +18,7 @@ email: yanxiaoguang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   傻傻地坚持做一件事，挺不住就放弃，然后把这件事再从头来过。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://iamafool.net" # the base hostname & protocol for your site
+url: "http://ibm.how" # the base hostname & protocol for your site
 twitter_username: iamafool
 github_username:  iamafool
 
