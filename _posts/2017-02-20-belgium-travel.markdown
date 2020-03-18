@@ -25,7 +25,7 @@ categories: 杂记
 
 ## 酒店
 从我的酒店房间隔窗望去就是中央火车站，旁边有一家小的电影院，Royale Cinema。在异国他乡看一场电影也不错！于是，我登陆它的官方网站，查询正在上映什么电影。令我吃惊的是，这个影院里只有两个放映厅，一厅放映同性恋电影，二厅放映异性成人片。不过由于这个影院在火车站附近，我担心安全问题而没敢去看。***（补充：一年后，第二次来这里出差时，这家影院已经停业了。）***
-![central station]({{ site.url }}/images/central_station.jpg "central station")
+![central station]({{ site.url }}/images/central_station.jpeg "central station")
 
 
 
@@ -40,10 +40,10 @@ categories: 杂记
 
 ## 西餐
 酒店的早餐为每位23欧元的自助餐。我印象最深刻的就是熏三文鱼，是第一次吃到这么美味的三文鱼。***（补充：自此以后，我留下了后遗症，去吃西餐时特别爱点熏三文鱼，期待着下一次的美味邂逅）***其次就是各种各样的奶酪和面包，都非常好吃。我的理解是，面包是一种发酵的艺术，在这个擅长做啤酒的国家，发酵的技术一定是一流的，把面包做好只是啤酒的副产品。
-![breakfast]({{ site.url }}/images/breakfast.jpg "breakfast")
+![breakfast]({{ site.url }}/images/breakfast.jpeg "breakfast")
 
 工作在这里的同事推荐我去吃mussel,和肌肉的读音非常相似，其实是指的一种贝壳类的东西。
-![mussel]({{ site.url }}/images/mussel.jpg "mussel")
+![mussel]({{ site.url }}/images/mussel.jpeg "mussel")
 
 这一次还去吃了一次生蚝，生蚝刺身。我是生蚝爱好者，但是在上海时我只吃熟的，难得来一次欧洲，就鼓起勇气去尝试一下生蚝刺身。我在网上找了一家生蚝非常出名的酒店，它有一个专门的生蚝吧。坐在生蚝吧旁边，点了一盘生蚝和一杯啤酒。一共七只生蚝，来自于不同的地区或海域，外观差别还是蛮大的，但是味道其实差不多。尽管我边吃边担心会不会出现拉肚子的情况，所幸还好，一切正常。
 
@@ -56,7 +56,7 @@ categories: 杂记
 ## 景点
 很多同事都告诉我，一定要去布鲁日，那是一座非常美丽的城市，号称是北方的威尼斯。但遗憾的是我这次没有机会过去。我自己去了以下几个地方，安特卫普圣母大教堂
 、安特卫普市集广场、布拉博喷泉、steen 城堡和鲁本斯故居。
-![cathedral of our lady]({{ site.url }}/images/cathedral_of_our_lady.jpg "cathedral of our lady")
+![cathedral of our lady]({{ site.url }}/images/cathedral_of_our_lady.jpeg "cathedral of our lady")
 
 ## 英语
 Can I have some drink?  
