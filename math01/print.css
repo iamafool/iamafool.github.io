@@ -2,4 +2,9 @@
   .no-print {
     display: none !important;
   }
+
+  table {
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
 }
