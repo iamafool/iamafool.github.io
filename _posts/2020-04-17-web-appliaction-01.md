@@ -6,4 +6,4 @@ categories: 小工具
 ---
 上个周末，写了一个[口算练习题生成工具][1]，欢迎试用。
 
-[1]:	http://yanxiaoguang.cn/math01/
+[1]:	math01/
